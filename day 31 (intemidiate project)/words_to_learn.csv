@@ -1,6 +1,7 @@
 German,English
 der,the
 und,and
+in,in
 sein,being
 ein,a 
 haben,to have
@@ -10,6 +11,7 @@ von,from
 ich,I
 nicht,Not
 es,it
+mit,with
 sich,itself
 er,he
 auf,on
@@ -22,6 +24,7 @@ als,as
 können,be able
 dies,this
 wie,how
+wir,we
 ihr,you
 so,so
 bei,at
@@ -35,6 +38,7 @@ all,Alles
 aus,the end
 was,What
 nur,just
+sagen,to say
 dann,then
 wenn,if
 müssen,must
@@ -45,6 +49,7 @@ kein,no
 da,there
 geben,give
 vor,Before
+mein,my
 mehr,more
 Jahr,Year
 du,you
@@ -52,6 +57,7 @@ durch,by
 viel,a lot of
 wollen,want
 machen,do
+andere,other
 sollen,must
 schon,nice
 kommen,come
@@ -81,6 +87,7 @@ stehen,stand
 unser,our
 jede,every
 weil,because
+unter,under
 Mensch,Person
 ihm,him
 ihn,him
@@ -98,9 +105,12 @@ finden,Find
 gegen,versus
 zwischen,in between
 drei,three
+liegen,lie
 wo,Where
 nichts,nothing
 klein,small
+Tag,Day
+deutsch,German
 bleiben,stay
 nun,well
 sondern,but
@@ -131,6 +141,7 @@ dort,there
 Deutschland,Germany
 gleich,even
 nehmen,to take
+dürfen,allowed to
 wichtig,important
 vielleicht,perhaps
 hören,Listen
@@ -168,7 +179,6 @@ richtig,correct
 stark,strong
 brauchen,to need
 Hand,hand
-etwa,about
 weitere,Further
 Ende,End
 schreiben,to write
@@ -276,6 +286,7 @@ schaffen,create
 damals,back then
 erhalten,receive
 lernen,to learn
+frei,free
 Wert,value
 beziehungsweise,or
 daran,to it
@@ -311,9 +322,12 @@ steigen,climb
 eher,rather
 essen,meal
 Minute,minute
+Nacht,Night
+Platz,place
 schlecht,bad
 Spiel,Game
 Familie,family
+jemand,someone
 dessen,whose
 fallen,fall
 zehn,ten
@@ -356,7 +370,6 @@ Gruppe,group
 Ding,thing
 na,n / A
 gewinnen,to win
-zunächst,first
 damit,with it
 Tür,door
 Schritt,Step
@@ -383,7 +396,6 @@ erinnern,recall
 oh,Oh
 bedeuten,mean
 Stimme,Voice
-Reaktion,reaction
 wirken,works
 darstellen,represent
 Raum,Space
@@ -496,9 +508,11 @@ Musik,music
 schauen,to look
 Stück,piece
 besondere,special
+tot,dead
 Gott,God
 völlig,fully
 positiv,positive
+Gespräch,conversation
 darum,therefore
 Kunde,customer
 Menge,quantity
@@ -520,7 +534,6 @@ ebenso,as well
 Boden,floor
 bevor,before
 verwenden,use
-Politik,politics
 Tod,Death
 Erfolg,success
 zudem,in addition
@@ -531,6 +544,7 @@ Präsident,president
 holen,fetch
 Junge,Young
 sogenannt,so -called
+Polizei,police
 Chance,chance
 gewiss,certainly
 innerhalb,within
